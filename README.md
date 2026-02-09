@@ -14,7 +14,7 @@
   <a href="https://www.instagram.com/_carloshpaulino">
     <img src="https://img.shields.io/badge/Instagram-@_carloshpaulino?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="www.linkedin.com/in/carlos-henrique-b96796257">
+  <a href="https://www.linkedin.com/in/carlos-henrique-b96796257">
     <img src="https://img.shields.io/badge/Linkedin-@carlos henrique-008990?style=for-the-badge&logo=Linkedin&logoColor=white" />
     
   </a>             
